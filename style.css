@@ -1,0 +1,35 @@
+body{
+    background-color: aqua;
+    font-family: 'Special Elite', cursive;
+    color: crimson;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.header_div{
+    background : yellowgreen;
+    color: red;
+    font-size: 80px;
+    font-family: Merriweather;
+}
+
+.header_div p{ 
+    font-family: 'Corinthia';
+    color: darkblue;
+    letter-spacing: 2px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: blue;
+    background-color: crimson;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(56, 52, 52);
+}
